@@ -2,6 +2,6 @@
 public class Main
 {
 	public static void main(String[] args) {
-		System.out.println("Hello I am Via Enopia murag samot");
+		System.out.println("I like BTS K-pop group!!");
 	}
 }
