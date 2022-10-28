@@ -2,6 +2,6 @@
 public class Main
 {
 	public static void main(String[] args) {
-		System.out.println("I like BTS K-pop group!!");
+		System.out.println("i want to laugh hard");
 	}
 }
